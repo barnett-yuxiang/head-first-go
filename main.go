@@ -7,5 +7,6 @@ import (
 func main() {
 	//chapter01.Test01()
 	//chapter02.Test01()
-	chapter02.Test02()
+	//chapter02.Test02()
+	chapter02.Test03()
 }
