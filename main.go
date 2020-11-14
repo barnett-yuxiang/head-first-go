@@ -1,7 +1,11 @@
 package main
 
-import "example-head-first-go/chapter01"
+import (
+	"example-head-first-go/chapter02"
+)
 
 func main() {
-	chapter01.Test01()
+	//chapter01.Test01()
+	//chapter02.Test01()
+	chapter02.Test02()
 }
