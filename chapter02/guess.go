@@ -34,5 +34,5 @@ func Test03() {
 	} else if guess > target {
 		fmt.Println("High")
 	}
-	
+
 }
