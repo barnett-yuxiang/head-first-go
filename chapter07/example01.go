@@ -1,8 +1,8 @@
 package chapter07
 
 import (
+	"example-head-first-go/chapter07/datafile"
 	"fmt"
-	"head-first-go/chapter07/datafile"
 	"log"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"head-first-go/chapter07"
+	"example-head-first-go/chapter07"
 )
 
 func main() {
