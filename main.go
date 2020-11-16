@@ -11,4 +11,6 @@ func main() {
 	//chapter02.Test03()
 	chapter03.Test01()
 	chapter03.Test03()
+	chapter03.Test04()
+	chapter03.Test05()
 }
