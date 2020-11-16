@@ -1,7 +1,7 @@
 package main
 
 import (
-	"head-first-go/chapter06"
+	"head-first-go/chapter07"
 )
 
 func main() {
@@ -29,6 +29,10 @@ func main() {
 	//datefile.Test03()
 
 	// 06
-	chapter06.Test01()
-	chapter06.Test02()
+	//chapter06.Test01()
+	//chapter06.Test02()
+
+	// 07
+	chapter07.Test01()
+	chapter07.Test02()
 }
