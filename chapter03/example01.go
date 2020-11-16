@@ -15,15 +15,18 @@ func Test01() {
 	fmt.Println(err)
 	fmt.Printf("%0.2f liters needed\n", amount)
 	sayHi()
-	fmt.Printf("double 2.0 = %.2f\n", double(2.0))
+	amount = 2
+	double(&amount)
+	fmt.Printf("double 2.0 = %.2f\n", amount)
 }
 
 func sayHi() {
 	fmt.Println("Hi")
 }
 
-func double(number float64) float64 {
-	return number * 2
+func double(number *float64) float64 {
+	*number = (*number) * 2
+	return *number
 }
 
 func paintNeeded(width float64, height float64) (float64, error) {
