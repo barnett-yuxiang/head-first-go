@@ -1,12 +1,14 @@
 package main
 
 import (
-	"example-head-first-go/chapter02"
+	"head-first-go/chapter03"
 )
 
 func main() {
 	//chapter01.Test01()
 	//chapter02.Test01()
 	//chapter02.Test02()
-	chapter02.Test03()
+	//chapter02.Test03()
+	chapter03.Test01()
+	chapter03.Test03()
 }
