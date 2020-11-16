@@ -1,8 +1,6 @@
 package main
 
-import (
-	"example-head-first-go/chapter08"
-)
+import "example-head-first-go/chapter09"
 
 func main() {
 	// 01
@@ -37,6 +35,10 @@ func main() {
 	//chapter07.Test02()
 
 	// 08
-	chapter08.Test01()
-	chapter08.Test02()
+	//chapter08.Test01()
+	//chapter08.Test02()
+
+	// 09
+	chapter09.Test01()
+	chapter09.Test02()
 }
