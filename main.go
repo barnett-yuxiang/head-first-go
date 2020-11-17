@@ -1,6 +1,9 @@
 package main
 
-import "head-first-go/chapter10"
+import (
+	"head-first-go/chapter10"
+	"head-first-go/chapter11"
+)
 
 func main() {
 	// 01
@@ -45,4 +48,7 @@ func main() {
 	// 10
 	chapter10.Test01()
 	chapter10.Test02()
+
+	// 11
+	chapter11.Test01()
 }
