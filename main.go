@@ -4,6 +4,7 @@ import (
 	"head-first-go/chapter10"
 	"head-first-go/chapter11"
 	"head-first-go/chapter12"
+	"head-first-go/chapter13"
 )
 
 func main() {
@@ -59,4 +60,6 @@ func main() {
 	chapter12.Test03()
 
 	//13
+	chapter13.Test01()
+	chapter13.Test02()
 }
