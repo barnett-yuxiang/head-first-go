@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fbd2adb-3ee0-4544-bcfe-4618846ede1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter10/example01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/example02.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter07/example01.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter07/example01.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="$USER_HOME$/repo_tools/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -72,13 +71,13 @@
       <recent name="$PROJECT_DIR$/chapter04" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build example-head-first-go">
-    <configuration name="go build example-head-first-go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build head-first-go">
+    <configuration name="go build head-first-go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="example-head-first-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="example-head-first-go" />
+      <package value="head-first-go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -91,9 +90,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build head-first-go" />
+      <item itemvalue="Go Build.go build head-first-go/chapter04/hi" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build example-head-first-go" />
+        <item itemvalue="Go Build.go build head-first-go" />
         <item itemvalue="Go Build.go build head-first-go/chapter04/hi" />
       </list>
     </recent_temporary>
@@ -125,14 +128,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="545" y="412" key="#GOROOT" timestamp="1605540948415">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="545" y="412" key="#GOROOT/0.0.1504.963@0.0.1504.963" timestamp="1605540948415" />
-    <state x="304" y="159" width="1071" height="751" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605532962924">
+    <state x="609" y="429" key="#GOROOT" timestamp="1605585419589">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="304" y="159" width="1071" height="751" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1605532962924" />
+    <state x="545" y="412" key="#GOROOT/0.0.1504.963@0.0.1504.963" timestamp="1605540948415" />
+    <state x="609" y="429" key="#GOROOT/0.23.1680.949@0.23.1680.949" timestamp="1605585419589" />
+    <state x="304" y="159" width="1071" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605585440519">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="304" y="159" width="1071" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1605585440519" />
     <state x="627" y="246" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605532935956">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -165,5 +169,9 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1605575176372" />
+    <state x="538" y="252" width="604" height="490" key="find.popup" timestamp="1605585461596">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="538" y="252" width="604" height="490" key="find.popup/0.23.1680.949@0.23.1680.949" timestamp="1605585461596" />
   </component>
 </project>

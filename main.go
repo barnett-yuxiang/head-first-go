@@ -1,6 +1,6 @@
 package main
 
-import "example-head-first-go/chapter10"
+import "head-first-go/chapter10"
 
 func main() {
 	// 01
